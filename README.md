@@ -41,4 +41,4 @@ Despite the 50% reduction in data, the hardware **RC Low-Pass Filter** successfu
 
 ## 📄 Full Documentation
 For the complete mathematical analysis and simulation results, view the report here:
-👉 [Adaptive_Sampling_based_Digital_Communication_Report.pdf](./Adaptive_Sampling_based_Digital_Communication_Report.pdf
+👉 [Adaptive_Sampling_based_Digital_Communication_Report.pdf](./Adaptive_Sampling_based_Digital_Communication_Report.pdf)
